@@ -1,6 +1,6 @@
+<?php
 // Nama Ryan Juniarto
 // Nim 231220046
-<?php
     $pesan = "";
 
     // Cek apakah form telah disubmit
